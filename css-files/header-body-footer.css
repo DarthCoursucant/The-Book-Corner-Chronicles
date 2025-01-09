@@ -4,7 +4,7 @@ html, body {
     height: 100%;
     padding: 0;
     margin: 0;
-    background-color: #6A76A4; /* 2. Same as header and footer, does not worj in codepen*/
+    background-color: #047A74; /* 2. Same as header and footer, does not worj in codepen*/
   }
   
   body {
@@ -18,15 +18,26 @@ html, body {
     flex-grow: 0; /* 0. Only takes the place it needs */
     flex-shrink: 0;
     color: #fafafa;
-    background-color: #ffffff;
+    background-color: #4AEBD3;
     padding: 10px;
   }
   
   main.page-body {
     flex-grow: 1; /* 1. Let main take all available space */
     padding: 0 10px;
-    background-color: #FFCCF9;
+    background-color: #047A74;
     color: black;
   }
 
 /* END STICKY FOOTER AND HEADER*/
+
+.vl {
+    border-left: 3px solid #ffffff;
+    height: 50px;
+    margin-left: 80px;
+    margin-top: 5px;
+  }
+
+.page-header, .right-side-header {
+    display: flex;
+}
