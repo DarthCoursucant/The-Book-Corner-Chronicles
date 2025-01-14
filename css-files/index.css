@@ -1,14 +1,25 @@
-.big-boxes-containter {
+.big-boxes-containter, .box-container-two {
     display: flex;
 }
 
 .image-container-large img {
-    width: 200px;
-    height: 230px;
+    width: 400px;
+    height: 430px;
+}
+
+.image-container-normal img {
+    width: 100px;
+    height: 130px;
+}
+
+.image-container-normal, .text-container-normal {
+    background-color: #ffffff;
+    width: 350px;
+    text-align: center;
 }
 
 .text-container-large, .image-container-large {
     background-color: #ffffff;
-    width: 400px;
+    width: 650px;
     text-align: center;
 }
