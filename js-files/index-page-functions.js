@@ -6,11 +6,11 @@ document.getElementById('showMoreBtn').addEventListener('click', function() {
         hiddenPosts[i].classList.remove('hidden');
     }
 
-    // Move the button after revealed posts
+    // The button moves after revealed posts
     const buttonContainer = document.getElementById('showMoreBtn').parentElement;
     buttonContainer.appendChild(this);
 
-    // If no more hidden posts are left, update button text and disable it
+    // If no more hidden posts are left to show, update button text and disable it
     if (hiddenPosts.length <= 3) {
         this.textContent = 'No more posts to show';
         this.disabled = true; // Optionally disable the button
