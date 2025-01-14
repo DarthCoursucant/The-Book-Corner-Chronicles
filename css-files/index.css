@@ -1,6 +1,24 @@
+/* COMMON CODE FOR INDEX PAGE */
 .big-boxes-containter, .box-container-two, .box-container-three {
     display: flex;
 }
+
+.main-body-of-container-large, .main-body-of-container-normal {
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.date-of-container-large, .date-of-container-normal {
+    font-size: 18px;
+    padding-bottom: 20px;
+    color: #aeaeae;
+    text-transform: uppercase;
+    padding-left: 15px;
+}
+
+/* END COMMON CODE FOR INDEX PAGE */
 
 /* LARGE BOXES */
 
@@ -10,13 +28,13 @@
 
 .text-container-large {
     background-color: #ffffff;
-    width: 470px;
+    width: 500px;
     text-align: left;
     margin-top: -10px;
 }
 
 .big-boxes-containter {
-    margin-left: 200px;
+    margin-left: 150px;
 }
 
 .box-two-large {
@@ -24,39 +42,33 @@
 }
 
 .image-container-large img {
-    width: 470px;
-    height: 500px;
-}
-
-.main-body-of-container-large {
-    font-size: 20px;
-    padding-top: 20px;
-}
-
-.date-of-container-large {
-    font-size: 18px;
-    padding-bottom: 20px;
-    color: #aeaeae;
-    text-transform: uppercase;
+    width: 500px;
+    height: 530px;
 }
 
 /*  END LARGE BOXES */
 
 /* NORMAL BOXES */
 
-.box-container-two  {
+.box-container-two, .box-container-three  {
     margin-top: 50px;
+    margin-left: 150px;
 }
 
 .text-container-normal {
     background-color: #ffffff;
-    width: 350px;
-    text-align: center;
+    width: 320px;
+    text-align: left;
+    margin-top: -10px;
 }
 
 .image-container-normal img {
-    width: 100px;
-    height: 130px;
+    width: 320px;
+    height: 350px;
+}
+
+.box-four-normal, .box-five-normal, .box-seven-normal, .box-eight-normal {
+    margin-left: 120px;
 }
 
 /* END NORMAL BOXES */
