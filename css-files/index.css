@@ -4,10 +4,15 @@
 
 /* LARGE BOXES */
 
+.big-boxes-containter {
+    margin-top: 70px;
+}
+
 .text-container-large {
     background-color: #ffffff;
-    width: 450px;
-    text-align: center;
+    width: 470px;
+    text-align: left;
+    margin-top: -10px;
 }
 
 .big-boxes-containter {
@@ -19,13 +24,29 @@
 }
 
 .image-container-large img {
-    width: 450px;
-    height: 480px;
+    width: 470px;
+    height: 500px;
+}
+
+.main-body-of-container-large {
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+.date-of-container-large {
+    font-size: 18px;
+    padding-bottom: 20px;
+    color: #aeaeae;
+    text-transform: uppercase;
 }
 
 /*  END LARGE BOXES */
 
 /* NORMAL BOXES */
+
+.box-container-two  {
+    margin-top: 50px;
+}
 
 .text-container-normal {
     background-color: #ffffff;
