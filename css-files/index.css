@@ -1,0 +1,14 @@
+.big-boxes-containter {
+    display: flex;
+}
+
+.image-container-large img {
+    width: 200px;
+    height: 230px;
+}
+
+.text-container-large, .image-container-large {
+    background-color: #ffffff;
+    width: 400px;
+    text-align: center;
+}
