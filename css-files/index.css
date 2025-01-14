@@ -1,4 +1,4 @@
-.big-boxes-containter, .box-container-two {
+.big-boxes-containter, .box-container-two, .box-container-three {
     display: flex;
 }
 
