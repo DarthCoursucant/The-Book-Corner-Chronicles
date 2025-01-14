@@ -27,6 +27,14 @@
     margin-left: 150px;
 }
 
+.image-container-normal img, .image-container-large img {
+    border-radius: 10px 10px 0 0;
+}
+
+.text-container-large, .text-container-normal {
+    border-radius: 0px 0px 10px 10px;
+}
+
 /* END COMMON CODE FOR INDEX PAGE */
 
 /* LARGE BOXES */
@@ -86,4 +94,7 @@ button {
     margin-top: 50px;
     margin-bottom: 80px;
     margin-left: 650px;
+    background-color: #0A5955;
+    border: 2px solid rgb(82, 254, 197);
+    color: #2CB39F;
 }
