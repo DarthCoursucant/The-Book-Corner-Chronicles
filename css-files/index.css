@@ -1,5 +1,5 @@
 /* COMMON CODE FOR INDEX PAGE */
-.big-boxes-containter, .box-container-two, .box-container-three, .box-container-four, .box-container-five {
+.big-boxes-containter, .box-container-two, .box-container-three, .box-container-four, .box-container-five, .box-container-six {
     display: flex;
 }
 
@@ -18,11 +18,11 @@
     padding-left: 15px;
 }
 
-.box-four-normal, .box-five-normal, .box-seven-normal, .box-eight-normal, .box-teen-normal, .box-eleven-normal, .box-thirten-normal, .box-fourteen-normal {
+.box-four-normal, .box-five-normal, .box-seven-normal, .box-eight-normal, .box-teen-normal, .box-eleven-normal, .box-thirten-normal, .box-fourteen-normal, .box-sixteen-normal, .box-seventeen-normal {
     margin-left: 120px;
 }
 
-.box-container-two, .box-container-three, .box-container-four, .box-container-five  {
+.box-container-two, .box-container-three, .box-container-four, .box-container-five, .box-container-six  {
     margin-top: 50px;
     margin-left: 150px;
 }
