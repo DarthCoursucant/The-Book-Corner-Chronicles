@@ -18,6 +18,15 @@
     padding-left: 15px;
 }
 
+.box-four-normal, .box-five-normal, .box-seven-normal, .box-eight-normal, .box-teen-normal, .box-eleven-normal, .box-thirten-normal, .box-fourteen-normal {
+    margin-left: 120px;
+}
+
+.box-container-two, .box-container-three, .box-container-four, .box-container-five  {
+    margin-top: 50px;
+    margin-left: 150px;
+}
+
 /* END COMMON CODE FOR INDEX PAGE */
 
 /* LARGE BOXES */
@@ -50,11 +59,6 @@
 
 /* NORMAL BOXES */
 
-.box-container-two, .box-container-three, .box-container-four, .box-container-five  {
-    margin-top: 50px;
-    margin-left: 150px;
-}
-
 .text-container-normal {
     background-color: #ffffff;
     width: 320px;
@@ -65,10 +69,6 @@
 .image-container-normal img {
     width: 320px;
     height: 350px;
-}
-
-.box-four-normal, .box-five-normal, .box-seven-normal, .box-eight-normal, .box-teen-normal, .box-eleven-normal, .box-thirten-normal, .box-fourteen-normal {
-    margin-left: 120px;
 }
 
 /* END NORMAL BOXES */
