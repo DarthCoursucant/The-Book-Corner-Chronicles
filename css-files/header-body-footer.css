@@ -41,3 +41,7 @@ html, body {
 .page-header, .right-side-header {
     display: flex;
 }
+
+.about-header-button, .info-header-button, .interviews-header-button, .reviews-header-button {
+  margin-left: 20px;
+}
