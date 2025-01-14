@@ -1,5 +1,5 @@
 /* COMMON CODE FOR INDEX PAGE */
-.big-boxes-containter, .box-container-two, .box-container-three {
+.big-boxes-containter, .box-container-two, .box-container-three, .box-container-four {
     display: flex;
 }
 
@@ -50,7 +50,7 @@
 
 /* NORMAL BOXES */
 
-.box-container-two, .box-container-three  {
+.box-container-two, .box-container-three, .box-container-four  {
     margin-top: 50px;
     margin-left: 150px;
 }
@@ -67,7 +67,7 @@
     height: 350px;
 }
 
-.box-four-normal, .box-five-normal, .box-seven-normal, .box-eight-normal {
+.box-four-normal, .box-five-normal, .box-seven-normal, .box-eight-normal, .box-teen-normal, .box-eleven-normal {
     margin-left: 120px;
 }
 
