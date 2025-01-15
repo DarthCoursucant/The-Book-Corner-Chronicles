@@ -1,0 +1,8 @@
+.image-about img {
+    width: 300px;
+    height: 400px;
+}
+
+.about-me-container {
+    display: flex;
+}
