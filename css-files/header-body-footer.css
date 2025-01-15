@@ -38,8 +38,17 @@ html, body {
 
 /* END STICKY FOOTER AND HEADER*/
 
+.header-name-thing a, .right-side-header a {
+  color: #000000;
+  text-decoration: none;
+}
+
+.right-side-header {
+  margin-left: 300px;
+}
+
 .vl {
-    border-left: 3px solid #ffffff;
+    border-left: 3px solid #818181;
     height: 50px;
     margin-left: 80px;
     margin-top: 5px;
