@@ -7,16 +7,42 @@
     border-radius: 10px 10px 0 0;
 }
 
-.header-of-the-post {
+.header-of-the-post, .main-content-post {
     display: flex;
 }
 
 .icon-in-post {
-    margin-top: 70px;
+    margin-top: 35px;
     margin-left: 50px;
 }
 
 .content-of-header-of-post {
     padding-left: 50px;
     padding-right: 50px;
+}
+
+.content-of-header-of-post h1 {
+    font-size: 40px;
+    color: #000000;
+}
+
+.content-of-header-of-post p {
+    font-size: 30px;
+    color: #818181;
+    padding-left: 20px;
+}
+
+.picture-thing-section img {
+    width: 300px;
+    height: 380px;
+    border-radius: 30px;
+}
+
+.main-content-post {
+    padding-left: 30px;
+}
+
+.main-content-text-text {
+    padding-left: 40px;
+    padding-right: 40px;
 }
