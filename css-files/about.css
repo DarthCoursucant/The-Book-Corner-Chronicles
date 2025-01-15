@@ -6,3 +6,12 @@
 .about-me-container {
     display: flex;
 }
+
+.about-text h1, .about-text h2, .about-text h3, .about-text h4 {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.about-text p {
+    text-transform: capitalize;
+}
