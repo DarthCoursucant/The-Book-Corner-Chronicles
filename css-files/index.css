@@ -103,3 +103,7 @@ button {
     border: 2px solid rgb(82, 254, 197);
     color: #2CB39F;
 }
+
+.main-body-of-container-normal:hover, .date-of-container-normal:hover, .main-body-of-container-large:hover, .date-of-container-large:hover {
+    color: #2CB39F;
+}
