@@ -89,7 +89,8 @@ input[type="email"] {
 }
 
 .subscribe-link:hover {
-  background: #218838;
+  background: #2CB39F;
+  color: #000000;
 }
 
 .subscription-form h1 {
