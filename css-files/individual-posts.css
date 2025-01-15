@@ -1,0 +1,22 @@
+.main-post-container {
+    background-color: #ffffff;
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border-radius: 10px 10px 0 0;
+}
+
+.header-of-the-post {
+    display: flex;
+}
+
+.icon-in-post {
+    margin-top: 70px;
+    margin-left: 50px;
+}
+
+.content-of-header-of-post {
+    padding-left: 50px;
+    padding-right: 50px;
+}
