@@ -102,11 +102,21 @@ input[type="email"] {
   text-align: center;
 }
 
-.subscription-form p {
+.subscription-form p, .copyright-subsection-footer p {
   font-size: 25px;
   text-transform: capitalize;
+  text-align: center;
 }
 
 .page-footer, .social-media-links-footer {
   display: flex;
+}
+
+.two-sections-in-one-footer {
+  margin-left: 300px;
+  margin-top: 150px;
+}
+
+.yotube-link-section-footer, .x-link-section-fotter, .gmail-link-section-footer {
+  margin-left: 25px;
 }
