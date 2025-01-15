@@ -11,3 +11,7 @@ button:hover {
     background: #2CB39F;
     color: #000000;
   }
+
+.header-name-thing a:hover, .about-header-button a:hover, .info-header-button a:hover, .interviews-header-button A:hover {
+    color: #818181;
+}
