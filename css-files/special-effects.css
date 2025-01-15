@@ -2,3 +2,12 @@ button:hover {
     background-color: #2CB39F;
     color: #ffffff;
 }
+
+.main-body-of-container-normal:hover, .date-of-container-normal:hover, .main-body-of-container-large:hover, .date-of-container-large:hover {
+    color: #2CB39F;
+}
+
+.subscribe-link:hover {
+    background: #2CB39F;
+    color: #000000;
+  }
