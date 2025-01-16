@@ -19,3 +19,7 @@ button:hover {
 .without-pic-content a:hover {
     color: #2CB39F;
 }
+
+.email-icon-contact:hover {
+    transform: scale(1.2); /* Increase size on hover */
+}
