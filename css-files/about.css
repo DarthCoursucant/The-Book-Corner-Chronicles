@@ -34,11 +34,16 @@
     padding-right: 30px;
 }
 
+.pharagraph-two-by-pic {
+    padding-bottom: 30px;
+}
+
 .without-pic-content {
     width: 1295px;
     background-color: blue;
     margin-left: -320px;
 }
+
 .without-pic-content p {
     padding-left: 50px;
     padding-right: 50px;
