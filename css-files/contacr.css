@@ -1,0 +1,31 @@
+.contact-full-container {
+    background-color: #ffffff;
+    width: 1000px;
+    margin-left: 250px;
+    margin-top: 80px;
+    margin-bottom: 100px;
+    text-align: center;
+    border-radius: 10px;
+    color: #000000;
+}
+
+.contact-full-container h1 {
+    font-size: 40px;
+    padding-top: 30px;
+}
+
+.contact-full-container p {
+    font-size: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.email-icon-contact img {
+    width: 70px;
+    height: 70px;
+    margin-bottom: 30px;
+}
+
+.email-icon-contact {
+    transition: transform 0.3s ease; /* Smooth transition for the size change */
+}
