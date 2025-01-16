@@ -31,8 +31,8 @@
 }
 
 .pharagraph-one-by-pic, .pharagraph-two-by-pic {
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 .pharagraph-two-by-pic {
@@ -83,4 +83,9 @@
 
 .about-text p {
     font-size: 25px;
+}
+
+.without-pic-content a {
+    text-decoration: none;
+    color: #2ebdfe;
 }
