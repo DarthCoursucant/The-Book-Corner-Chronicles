@@ -14,3 +14,4 @@ Done
 - Index Page
 - About Page
 - Indivdual post page
+- contact page
