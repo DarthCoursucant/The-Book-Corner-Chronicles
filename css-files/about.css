@@ -1,6 +1,6 @@
 .image-about img {
-    width: 300px;
-    height: 400px;
+    width: 250px;
+    height: 350px;
     border-radius: 30px;
 }
 
@@ -14,7 +14,6 @@
 }
 
 .about-text h1, .about-text h2, .about-text h3, .about-text h4 {
-    text-align: center;
     text-transform: capitalize;
 }
 
@@ -36,16 +35,45 @@
 }
 
 .pharagraph-two-by-pic {
-    padding-bottom: 30px;
+    padding-bottom: 80px;
+}
+
+.about-text h2 {
+    margin-top: 40px;
 }
 
 .without-pic-content {
     width: 1345px;
     background-color: #fafafa;
-    margin-left: -320px;
+    margin-left: -270px;
 }
 
 .without-pic-content p {
     padding-left: 50px;
     padding-right: 50px;
+}
+
+.about-text h1 {
+    font-size: 45px;
+    padding-left: 250px;
+}
+
+.about-text h2 {
+    font-size: 40px;
+    padding-left: 420px;
+}
+
+.about-text h3 {
+    font-size: 35px;
+    padding-left: 270px;
+}
+
+.about-text h4 {
+    font-size: 30px;
+    padding-left: 100px;
+    text-align: center;
+}
+
+.about-text p {
+    font-size: 25px;
 }
