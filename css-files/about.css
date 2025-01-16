@@ -1,6 +1,12 @@
 .image-about img {
     width: 300px;
     height: 400px;
+    border-radius: 30px;
+}
+
+.image-about {
+    margin-left: 20px;
+    margin-top: 20px;
 }
 
 .about-me-container {
@@ -14,4 +20,26 @@
 
 .about-text p {
     text-transform: capitalize;
+}
+
+.about-me-container {
+    background-color: brown;
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.pharagraph-one-by-pic, .pharagraph-two-by-pic {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.without-pic-content {
+    width: 1295px;
+    background-color: blue;
+    margin-left: -320px;
+}
+.without-pic-content p {
+    padding-left: 50px;
+    padding-right: 50px;
 }
