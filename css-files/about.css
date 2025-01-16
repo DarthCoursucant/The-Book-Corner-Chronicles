@@ -24,7 +24,7 @@
 
 .about-me-container {
     background-color: brown;
-    width: 90%;
+    width: 1345px;
     margin-left: 5%;
     margin-top: 5%;
 }
@@ -39,7 +39,7 @@
 }
 
 .without-pic-content {
-    width: 1295px;
+    width: 1345px;
     background-color: blue;
     margin-left: -320px;
 }
