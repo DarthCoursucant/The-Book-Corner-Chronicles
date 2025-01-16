@@ -12,6 +12,6 @@ button:hover {
     color: #000000;
   }
 
-.header-name-thing a:hover, .about-header-button a:hover, .info-header-button a:hover, .interviews-header-button A:hover, .reviews-header-button a:hover {
+.header-name-thing a:hover, .about-header-button a:hover, .info-header-button a:hover, .interviews-header-button A:hover, .reviews-header-button a:hover, .contact-header-button a:hover {
     color: #818181;
 }
