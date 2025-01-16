@@ -24,9 +24,10 @@
 .about-me-container {
     background-color: #fafafa;
     width: 1345px;
-    margin-left: 5%;
-    margin-top: 5%;
+    margin-top: 50px;
+    margin-left: 80px;
     border-radius: 10px;
+    margin-bottom: 100px;
 }
 
 .pharagraph-one-by-pic, .pharagraph-two-by-pic {
@@ -66,12 +67,18 @@
 .about-text h3 {
     font-size: 35px;
     padding-left: 270px;
+    padding-top: 50px;
 }
 
 .about-text h4 {
     font-size: 30px;
     padding-left: 100px;
     text-align: center;
+    padding-top: 50px;
+}
+
+.last-pharagraph {
+    padding-bottom: 50px;
 }
 
 .about-text p {
